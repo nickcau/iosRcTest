@@ -357,70 +357,70 @@
 //    [self.overlayWindow makeKeyAndVisible];
 //    [self.overlayWindow.noticeView addTarget:self action:@selector(dismissNewNotification) forControlEvents:UIControlEventTouchUpInside];
 //    [self.overlayWindow.noticeView setFrame:CGRectMake(0, 0, self.view.bounds.size.width, 64)];
-//    
-//    UIImageView *menuBg = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"tab_back2"]];
-//    [menuBg setFrame:CGRectMake(0, self.view.bounds.size.height-49, 60, 49)];
-//    
-//    UIView *border = [[UIView alloc] initWithFrame:CGRectMake(0,self.view.bounds.size.height - 50, self.view.bounds.size.width, 1)];
-//    [border setBackgroundColor:[RCColor RCColorTableSaperator:1]];
-//    
-//    [self.view addSubview:menuBg];
-//    [self.view addSubview:border];
-//    
-//    
-//    UIImage *meetingImage = [UIImage imageNamed:@"meetings.png"];
-//    UIImage *textImage = [UIImage imageNamed:@"text.png"];
-//    UIImage *confImage = [UIImage imageNamed:@"conference.png"];
-//    UIImage *faxImage = [UIImage imageNamed:@"fax.png"];
-//    
-//    RCMenuItem *meetingsMenuItem = [[RCMenuItem alloc] initWithImage:meetingImage
-//                                                    highlightedImage:meetingImage
-//                                                        ContentImage:meetingImage
-//                                             highlightedContentImage:nil
-//                                                               title:@"Meetings"];
-//    RCMenuItem *textMenuItem = [[RCMenuItem alloc] initWithImage:textImage
-//                                                highlightedImage:textImage
-//                                                    ContentImage:textImage
-//                                         highlightedContentImage:nil
-//                                                           title:@"Text"];
-//    
-//    RCMenuItem *confMenuItem = [[RCMenuItem alloc] initWithImage:confImage
-//                                                highlightedImage:confImage
-//                                                    ContentImage:confImage
-//                                         highlightedContentImage:nil
-//                                                           title:@"Conference"];
-//    
-//    RCMenuItem *faxMenuItem = [[RCMenuItem alloc] initWithImage:faxImage
-//                                               highlightedImage:faxImage
-//                                                   ContentImage:faxImage
-//                                        highlightedContentImage:nil
-//                                                          title:@"Fax"];
-//    
-//    self.itemMenus = [NSMutableArray arrayWithObjects:textMenuItem, meetingsMenuItem, confMenuItem, faxMenuItem, nil];
-//    
-//    
-//    RCMenuItem *startItem = [[RCMenuItem alloc] initWithImage:[UIImage imageNamed:@"action"]
-//                                             highlightedImage:[UIImage imageNamed:@"action"]
-//                                                 ContentImage:[UIImage imageNamed:@"action"]
-//                                      highlightedContentImage:[UIImage imageNamed:@"action"]
-//                                                        title:@"Start"];
-//    
-//    [startItem.itemLabel setHidden:YES];
-//    _menu = [[RCMenu alloc] initWithFrame:CGRectZero startItem:startItem optionMenus:self.itemMenus];
-//    _menu.delegate = self;
-//    
-//    _menu.menuWholeAngle = M_PI;
-//    _menu.farRadius = 130.0f;
-//    _menu.endRadius = 120.0f;
-//    _menu.radius = self.view.bounds.size.width/2 - 25;
-//    _menu.animationDuration = .2;
-//    _menu.startPoint = CGPointMake(25,self.view.bounds.size.height - 25);
-//    
-////    self.menuShot = [[UIImageView alloc] initWithFrame:CGRectMake(50, self.view.bounds.size.height - 49, self.view.bounds.size.width - 50, 49)];
-////    [self.menuShot setHidden:YES];
-////    [self.view addSubview:self.menuShot];
-//    
-//    [self.view addSubview:_menu];    
+    
+    UIImageView *menuBg = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"tab_back2"]];
+    [menuBg setFrame:CGRectMake(0, self.view.bounds.size.height-49, 60, 49)];
+    
+    UIView *border = [[UIView alloc] initWithFrame:CGRectMake(0,self.view.bounds.size.height - 50, self.view.bounds.size.width, 1)];
+    [border setBackgroundColor:[RCColor RCColorTableSaperator:1]];
+    
+    [self.view addSubview:menuBg];
+    [self.view addSubview:border];
+    
+    
+    UIImage *meetingImage = [UIImage imageNamed:@"meetings.png"];
+    UIImage *textImage = [UIImage imageNamed:@"text.png"];
+    UIImage *confImage = [UIImage imageNamed:@"conference.png"];
+    UIImage *faxImage = [UIImage imageNamed:@"fax.png"];
+    
+    RCMenuItem *meetingsMenuItem = [[RCMenuItem alloc] initWithImage:meetingImage
+                                                    highlightedImage:meetingImage
+                                                        ContentImage:meetingImage
+                                             highlightedContentImage:nil
+                                                               title:@"Meetings"];
+    RCMenuItem *textMenuItem = [[RCMenuItem alloc] initWithImage:textImage
+                                                highlightedImage:textImage
+                                                    ContentImage:textImage
+                                         highlightedContentImage:nil
+                                                           title:@"Text"];
+    
+    RCMenuItem *confMenuItem = [[RCMenuItem alloc] initWithImage:confImage
+                                                highlightedImage:confImage
+                                                    ContentImage:confImage
+                                         highlightedContentImage:nil
+                                                           title:@"Conference"];
+    
+    RCMenuItem *faxMenuItem = [[RCMenuItem alloc] initWithImage:faxImage
+                                               highlightedImage:faxImage
+                                                   ContentImage:faxImage
+                                        highlightedContentImage:nil
+                                                          title:@"Fax"];
+    
+    self.itemMenus = [NSMutableArray arrayWithObjects:textMenuItem, meetingsMenuItem, confMenuItem, faxMenuItem, nil];
+    
+    
+    RCMenuItem *startItem = [[RCMenuItem alloc] initWithImage:[UIImage imageNamed:@"action"]
+                                             highlightedImage:[UIImage imageNamed:@"action"]
+                                                 ContentImage:[UIImage imageNamed:@"action"]
+                                      highlightedContentImage:[UIImage imageNamed:@"action"]
+                                                        title:@"Start"];
+    
+    [startItem.itemLabel setHidden:YES];
+    _menu = [[RCMenu alloc] initWithFrame:CGRectZero startItem:startItem optionMenus:self.itemMenus];
+    _menu.delegate = self;
+    
+    _menu.menuWholeAngle = M_PI;
+    _menu.farRadius = 130.0f;
+    _menu.endRadius = 120.0f;
+    _menu.radius = self.view.bounds.size.width/2 - 25;
+    _menu.animationDuration = .2;
+    _menu.startPoint = CGPointMake(25,self.view.bounds.size.height - 25);
+    
+//    self.menuShot = [[UIImageView alloc] initWithFrame:CGRectMake(50, self.view.bounds.size.height - 49, self.view.bounds.size.width - 50, 49)];
+//    [self.menuShot setHidden:YES];
+//    [self.view addSubview:self.menuShot];
+    
+    [self.view addSubview:_menu];    
 }
 
 - (void)dismissNewNotification
