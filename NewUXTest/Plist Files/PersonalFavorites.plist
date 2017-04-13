@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fav</key>
+	<array>
+		<array>
+			<string>icon_online</string>
+			<string>Carle</string>
+			<string>Extension 6632</string>
+		</array>
+		<array>
+			<string>icon_online</string>
+			<string>Chancellor</string>
+			<string>Extension 3221</string>
+		</array>
+		<array>
+			<string>icon_online</string>
+			<string>Colvin</string>
+			<string>Extension 8321</string>
+		</array>
+		<array>
+			<string>icon_busy</string>
+			<string>Denis</string>
+			<string>Extension 6011</string>
+		</array>
+		<array>
+			<string>icon_offline</string>
+			<string>Eria</string>
+			<string>Extension 5121</string>
+		</array>
+	</array>
+</dict>
+</plist>

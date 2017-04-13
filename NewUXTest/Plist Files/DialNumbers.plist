@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Nums</key>
+	<array>
+		<array>
+			<string>1</string>
+			<string></string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>ABC</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>DEF</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>GHI</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>JKL</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>MNO</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>PQRS</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>TUV</string>
+		</array>
+		<array>
+			<string>9</string>
+			<string>WXYZ</string>
+		</array>
+		<array>
+			<string>none</string>
+			<string>*</string>
+		</array>
+		<array>
+			<string>0</string>
+			<string>+</string>
+		</array>
+		<array>
+			<string>none</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>dial</string>
+			<string>#</string>
+		</array>
+	</array>
+</dict>
+</plist>

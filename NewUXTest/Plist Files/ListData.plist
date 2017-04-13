@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Aaron</string>
+		<string>Abbey</string>
+		<string>Abbot</string>
+		<string>Abbott</string>
+		<string>Abelia</string>
+		<string>Abellana</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>Bailee</string>
+		<string>Bailie</string>
+		<string>Barclay</string>
+		<string>Barett</string>
+		<string>Barlow</string>
+		<string>Barnes</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>Calvert</string>
+		<string>Camelia</string>
+		<string>Cameo</string>
+		<string>Carle</string>
+		<string>Chadwick</string>
+		<string>Chancellor</string>
+		<string>Colvin</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>Denis</string>
+		<string>David</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>Eria</string>
+		<string>Elena</string>
+		<string>Elia</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>Fransis</string>
+		<string>Flyies</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>Gabby</string>
+		<string>Gandhara</string>
+		<string>Garvey</string>
+		<string>Gedalya</string>
+	</array>
+</dict>
+</plist>

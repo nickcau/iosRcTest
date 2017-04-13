@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<array>
+		<string>Peter White</string>
+		<string>Jane Dow</string>
+		<string>(650) 555-0021</string>
+		<string>Jane Dow</string>
+		<string>Lester Patel</string>
+		<string>(415) 562-4232</string>
+	</array>
+	<key>New item - 2</key>
+	<array>
+		<string>icon_voice_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_voice_read</string>
+	</array>
+	<key>New item - 3</key>
+	<array>
+		<string>0:11</string>
+		<string>0:24</string>
+		<string>0:11</string>
+		<string>0:32</string>
+		<string>0:20</string>
+		<string>1:12</string>
+	</array>
+	<key>New item - 4</key>
+	<array>
+		<string>Yesterday</string>
+		<string>Friday</string>
+		<string>6/1/14</string>
+		<string>5/30/14</string>
+		<string>5/25/14</string>
+		<string>5/21/14</string>
+	</array>
+</dict>
+</plist>

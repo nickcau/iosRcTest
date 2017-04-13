@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Sarah Walker</string>
+		<string>Morgan Grimes</string>
+		<string>Lester Patel</string>
+		<string>(415) 562-4232</string>
+		<string>Sales Dept.</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>icon_outbox_loading</string>
+		<string>icon_outbox_failed</string>
+		<string>icon_outbox_failed</string>
+		<string>icon_outbox_failed</string>
+		<string>icon_outbox_failed</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>11:20 AM</string>
+		<string>8:45 AM</string>
+		<string>Yesterday</string>
+		<string>Yesterday</string>
+		<string>Saturday</string>
+	</array>
+</dict>
+</plist>

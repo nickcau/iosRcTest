@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Processing Dept.</string>
+		<string>(650) 555-0021</string>
+		<string>Jane Dow</string>
+		<string>Sarah Walker</string>
+		<string>Morgan Grimes</string>
+		<string>Lester Patel</string>
+		<string>Ellie Woodcomb</string>
+		<string>(415) 562-4232</string>
+		<string>Chuck Bartowski</string>
+		<string>(455) 231-1183</string>
+		<string>(650) 333-1212</string>
+		<string>Sales Dept.</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_fax_read</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>11:20 AM</string>
+		<string>8:45 AM</string>
+		<string>Yesterday</string>
+		<string>Yesterday</string>
+		<string>Saturday</string>
+		<string>Friday</string>
+		<string>6/1/14</string>
+		<string>6/1/14</string>
+		<string>5/30/14</string>
+		<string>5/28/14</string>
+		<string>5/28/14</string>
+		<string>5/27/14</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Julie Smith</string>
+		<string>Julie Smith</string>
+		<string>Peter White</string>
+		<string>Processing Dept.</string>
+		<string>(650) 555-0021</string>
+		<string>Jane Dow</string>
+		<string>(650) 555-0021</string>
+		<string>Ryan Azus</string>
+		<string>Jane Dow</string>
+		<string>Sarah Walker</string>
+		<string>Morgan Grimes</string>
+		<string>John Casey</string>
+		<string>Lester Patel</string>
+		<string>Ellie Woodcomb</string>
+		<string>(415) 562-4232</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>icon_fax_unread</string>
+		<string>icon_message_unread</string>
+		<string>icon_voice_read</string>
+		<string>icon_message_department_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_message_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_fax_read</string>
+		<string>icon_message_read</string>
+		<string>icon_message_department_read</string>
+		<string>icon_voice_read</string>
+		<string>icon_message_read</string>
+		<string>icon_voice_read</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>3 pages</string>
+		<string>Sending my loan documents...</string>
+		<string>0:11</string>
+		<string>Alex, is our meeting still...</string>
+		<string>2 pages</string>
+		<string>0:24</string>
+		<string>0:11</string>
+		<string>Ready!</string>
+		<string>0:32</string>
+		<string>3 pages</string>
+		<string>Call me when you&apos;re free!</string>
+		<string>OK</string>
+		<string>0:20</string>
+		<string>Can you bring dessert tonight...</string>
+		<string>1:12</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>11:20 AM</string>
+		<string>8:45 AM</string>
+		<string>Yesterday</string>
+		<string>Yesterday</string>
+		<string>Saturday</string>
+		<string>Friday</string>
+		<string>6/1/14</string>
+		<string>6/1/14</string>
+		<string>5/30/14</string>
+		<string>5/28/14</string>
+		<string>5/28/14</string>
+		<string>5/27/14</string>
+		<string>5/25/14</string>
+		<string>5/22/14</string>
+		<string>5/21/14</string>
+	</array>
+</dict>
+</plist>

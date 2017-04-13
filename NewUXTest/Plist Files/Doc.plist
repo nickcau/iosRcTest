@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Julie Smith</string>
+		<string>Julie Smith</string>
+		<string>Peter White</string>
+		<string>Processing Dept.</string>
+		<string>(650) 555-0021</string>
+		<string>Jane Dow</string>
+		<string>(650) 555-0021</string>
+		<string>Ryan Azus</string>
+		<string>Jane Dow</string>
+		<string>Sarah Walker</string>
+		<string>Morgan Grimes</string>
+		<string>John Casey</string>
+		<string>Lester Patel</string>
+		<string>Ellie Woodcomb</string>
+		<string>(415) 562-4232</string>
+		<string>Chuck Bartowski</string>
+		<string>Sarah Walker</string>
+		<string>Morgan Grimes</string>
+		<string>(455) 231-1183</string>
+		<string>Jane Dow</string>
+		<string>Ryan Azus</string>
+		<string>(455) 231-1183</string>
+		<string>(650) 333-1212</string>
+		<string>Sales Dept.</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>bmp</string>
+		<string>awd</string>
+		<string>cpp</string>
+		<string>csv</string>
+		<string>doc</string>
+		<string>docm</string>
+		<string>docx</string>
+		<string>dot</string>
+		<string>eps</string>
+		<string>gif</string>
+		<string>h</string>
+		<string>hpp</string>
+		<string>htm</string>
+		<string>html</string>
+		<string>jpg</string>
+		<string>pdf</string>
+		<string>png</string>
+		<string>ppt</string>
+		<string>txt</string>
+		<string>wpd</string>
+		<string>wps</string>
+		<string>xls</string>
+		<string>xlsx</string>
+		<string>xml</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>1.2 MB</string>
+		<string>1.1 MB</string>
+		<string>1.9 MB</string>
+		<string>2.3 MB</string>
+		<string>4.4 MB</string>
+		<string>1.0 MB</string>
+		<string>2.1 MB</string>
+		<string>1.2 MB</string>
+		<string>2.3 MB</string>
+		<string>2.5 MB</string>
+		<string>1.6 MB</string>
+		<string>3.6 MB</string>
+		<string>4.2 MB</string>
+		<string>2.8 MB</string>
+		<string>1.9 MB</string>
+		<string>2.8 MB</string>
+		<string>3.3 MB</string>
+		<string>1.8 MB</string>
+		<string>2.6 MB</string>
+		<string>2.2 MB</string>
+		<string>1.7 MB</string>
+		<string>12.8 MB</string>
+		<string>1.1 MB</string>
+		<string>7.8 MB</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>11:20 AM</string>
+		<string>8:45 AM</string>
+		<string>Yesterday</string>
+		<string>Yesterday</string>
+		<string>Saturday</string>
+		<string>Friday</string>
+		<string>6/1/14</string>
+		<string>6/1/14</string>
+		<string>5/30/14</string>
+		<string>5/28/14</string>
+		<string>5/28/14</string>
+		<string>5/27/14</string>
+		<string>5/25/14</string>
+		<string>5/22/14</string>
+		<string>5/21/14</string>
+		<string>5/21/14</string>
+		<string>5/20/14</string>
+		<string>5/11/14</string>
+		<string>5/9/14</string>
+		<string>5/9/14</string>
+		<string>5/8/14</string>
+		<string>5/6/14</string>
+		<string>4/29/14</string>
+		<string>4/21/14</string>
+	</array>
+</dict>
+</plist>

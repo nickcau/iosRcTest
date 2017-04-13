@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<array>
+		<string>Julie Smith</string>
+		<string>Julie Smith</string>
+		<string>Peter White</string>
+		<string>Processing Dept.</string>
+		<string>(650) 555-0021</string>
+		<string>Jane Dow</string>
+		<string>(650) 555-0021</string>
+		<string>Ryan Azus</string>
+		<string>Jane Dow</string>
+		<string>Sarah Walker</string>
+		<string>Morgan Grimes</string>
+		<string>John Casey</string>
+		<string>Lester Patel</string>
+		<string>Ellie Woodcomb</string>
+		<string>(415) 562-4232</string>
+	</array>
+	<key>New item - 2</key>
+	<array>
+		<string>icon_MissedCall</string>
+		<string>icon_MissedCall</string>
+		<string>icon_IncomingCall</string>
+		<string>icon_OutgoingCall</string>
+		<string>icon_IncomingCall</string>
+		<string>icon_MissedCall</string>
+		<string>icon_OutgoingCall</string>
+		<string>icon_OutgoingCall</string>
+		<string>icon_IncomingCall</string>
+		<string>icon_MissedCall</string>
+		<string>icon_IncomingCall</string>
+		<string>icon_OutgoingCall</string>
+		<string>icon_MissedCall</string>
+		<string>icon_IncomingCall</string>
+		<string>icon_OutgoingCall</string>
+	</array>
+	<key>New item - 3</key>
+	<array>
+		<string>San Meteo, CA (0:11)</string>
+		<string>Extension (0:09)</string>
+		<string>San Meteo, CA (0:51)</string>
+		<string>San Meteo, CA (3:11)</string>
+		<string>San Jose, CA (1:59)</string>
+		<string>San Meteo, CA (0:21)</string>
+		<string>San Jose, CA (9:11)</string>
+		<string>Extension (2:04)</string>
+		<string>San Jose, CA (2:22)</string>
+		<string>Extension (0:19)</string>
+		<string>Extension (4:49)</string>
+		<string>Extension (10:55)</string>
+		<string>San Jose, CA (0:15)</string>
+		<string>San Meteo, CA (7:10)</string>
+		<string>San Jose, CA (6:09)</string>
+	</array>
+	<key>New item - 4</key>
+	<array>
+		<string>11:20 AM</string>
+		<string>8:45 AM</string>
+		<string>Yesterday</string>
+		<string>Yesterday</string>
+		<string>Saturday</string>
+		<string>Friday</string>
+		<string>6/1/14</string>
+		<string>6/1/14</string>
+		<string>5/30/14</string>
+		<string>5/28/14</string>
+		<string>5/28/14</string>
+		<string>5/27/14</string>
+		<string>5/25/14</string>
+		<string>5/22/14</string>
+		<string>5/21/14</string>
+	</array>
+</dict>
+</plist>

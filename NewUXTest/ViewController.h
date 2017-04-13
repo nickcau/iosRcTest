@@ -8,8 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
+@protocol MessagesViewControllerDelegate <NSObject>
+
+- (void)didSelectedMessagesTabIndex:(NSInteger)index;
+
+@end
+
 @interface ViewController : UIViewController
 
+@property (nonatomic, assign) id<MessagesViewControllerDelegate> delegate;
 
 @end
 

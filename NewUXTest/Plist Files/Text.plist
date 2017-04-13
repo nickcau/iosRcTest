@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<array>
+		<string>Julie Smith</string>
+		<string>Processing Dept.</string>
+		<string>Ryan Azus</string>
+		<string>Morgan Grimes</string>
+		<string>John Casey</string>
+		<string>Ellie Woodcomb</string>
+	</array>
+	<key>New item - 2</key>
+	<array>
+		<string>icon_message_unread</string>
+		<string>icon_message_department_read</string>
+		<string>icon_message_read</string>
+		<string>icon_message_read</string>
+		<string>icon_message_department_read</string>
+		<string>icon_message_read</string>
+	</array>
+	<key>New item - 3</key>
+	<array>
+		<string>Sending my loan documents...</string>
+		<string>Alex, is our meeting still...</string>
+		<string>Ready!</string>
+		<string>Call me when you&apos;re free!</string>
+		<string>OK</string>
+		<string>Can you bring dessert tonight...</string>
+	</array>
+	<key>New item - 4</key>
+	<array>
+		<string>8:45 AM</string>
+		<string>Yesterday</string>
+		<string>6/1/14</string>
+		<string>5/28/14</string>
+		<string>5/27/14</string>
+		<string>5/22/14</string>
+	</array>
+</dict>
+</plist>

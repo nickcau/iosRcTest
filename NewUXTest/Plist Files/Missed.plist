@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<array>
+		<string>Julie Smith</string>
+		<string>Julie Smith</string>
+		<string>Jane Dow</string>
+		<string>Sarah Walker</string>
+		<string>Lester Patel</string>
+	</array>
+	<key>New item - 2</key>
+	<array>
+		<string>icon_MissedCall</string>
+		<string>icon_MissedCall</string>
+		<string>icon_MissedCall</string>
+		<string>icon_MissedCall</string>
+		<string>icon_MissedCall</string>
+	</array>
+	<key>New item - 3</key>
+	<array>
+		<string>San Meteo, CA (0:11)</string>
+		<string>Extension (0:09)</string>
+		<string>San Meteo, CA (0:21)</string>
+		<string>Extension (0:19)</string>
+		<string>San Jose, CA (0:15)</string>
+	</array>
+	<key>New item - 4</key>
+	<array>
+		<string>11:20 AM</string>
+		<string>8:45 AM</string>
+		<string>Friday</string>
+		<string>5/28/14</string>
+		<string>5/25/14</string>
+	</array>
+</dict>
+</plist>

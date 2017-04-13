@@ -8,6 +8,14 @@
 
 #import "AppDelegate.h"
 #include "ViewController.h"
+#include "VoiceTable.h"
+#import "FaxTable.h"
+#import "CallLogViewController.h"
+#import "DocumentsViewController.h"
+#import "ContactsViewController.h"
+#import "FavoritesViewController.h"
+#import "MainViewController.h"
+#import "DialPadViewController.h"
 
 @interface AppDelegate ()
 
@@ -21,7 +29,7 @@
     
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.backgroundColor = [UIColor whiteColor];
-    ViewController* controller = [[ViewController alloc] init];
+    MainViewController* controller = [[MainViewController alloc] init];
     controller.view.bounds = [UIScreen mainScreen].bounds;
     UINavigationController* nav = [[UINavigationController alloc] initWithRootViewController:controller];
     self.window.rootViewController = nav;

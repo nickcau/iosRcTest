@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fav</key>
+	<array>
+		<array>
+			<string>icon_online</string>
+			<string>Aaron</string>
+			<string>Extension 8212</string>
+		</array>
+		<array>
+			<string>icon_online</string>
+			<string>Abbot</string>
+			<string>Extension 2310</string>
+		</array>
+		<array>
+			<string>icon_busy</string>
+			<string>Abellana</string>
+			<string>Extension 5312</string>
+		</array>
+		<array>
+			<string>icon_offline</string>
+			<string>Bailee</string>
+			<string>Extension 4212</string>
+		</array>
+		<array>
+			<string>icon_hold</string>
+			<string>Barclay</string>
+			<string>Extension 1211</string>
+		</array>
+		<array>
+			<string>icon_online</string>
+			<string>Barlow</string>
+			<string>Extension 5426</string>
+		</array>
+		<array>
+			<string>icon_online</string>
+			<string>Barnes</string>
+			<string>Extension 1231</string>
+		</array>
+		<array>
+			<string>icon_online</string>
+			<string>Camelia</string>
+			<string>Extension 6638</string>
+		</array>
+	</array>
+</dict>
+</plist>
